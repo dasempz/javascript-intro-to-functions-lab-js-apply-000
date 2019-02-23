@@ -20,9 +20,7 @@ function sayHiToGrandma(string) {
   lowercase.toLowerCase() === lowercase; // true
   return "I can\'t hear you!";
 }
-function sayHiToGrandma(string) {
-  var uppercase = 'HELLO';
-  uppercase.toUpperCase() === uppercase; // true
+  string.toUpperCase() === 'HELLO'; // true
   return "YES INDEED!";
 }
 function sayHiToGrandma(string) {

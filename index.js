@@ -27,7 +27,6 @@ function sayHiToGrandma(string) {
 }
 function sayHiToGrandma(string) {
   var mixedCase = 'I love you, Grandma."',
-  string === "I love you, Grandma.";
-  return "I can\'t hear you!";
+ return "I can\'t hear you!";
 }
 learn test
